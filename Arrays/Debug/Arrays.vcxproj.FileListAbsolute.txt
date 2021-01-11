@@ -1,0 +1,2 @@
+C:\Users\Me\Desktop\C++ Material\Arrays\Debug\Arrays.exe
+C:\Users\Me\Desktop\C++ Material\Arrays\Debug\Arrays.pdb
