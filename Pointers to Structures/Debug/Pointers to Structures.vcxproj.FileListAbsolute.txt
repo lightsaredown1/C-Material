@@ -1,0 +1,2 @@
+C:\Users\Me\Desktop\C++ Material\Pointers to Structures\Debug\Pointers to Structures.exe
+C:\Users\Me\Desktop\C++ Material\Pointers to Structures\Debug\Pointers to Structures.pdb
